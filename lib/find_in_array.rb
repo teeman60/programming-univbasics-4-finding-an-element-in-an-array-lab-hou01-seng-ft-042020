@@ -5,7 +5,8 @@ def find_element_index(array, value_to_find)
     ele = array[i]
     if ele == value_to_find
       return i
+    else return nil
     end
-    return nil
+    
   end
 end
