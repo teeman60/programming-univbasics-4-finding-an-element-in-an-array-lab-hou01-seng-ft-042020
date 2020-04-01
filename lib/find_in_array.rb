@@ -11,5 +11,5 @@ def find_element_index(array, value_to_find)
     i += 1
   end
   nil
-  binding.pry
+  # binding.pry
 end
